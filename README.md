@@ -30,3 +30,12 @@ The below table shows the Locations in a city and time we need to spend in a par
 Goa| Beach|6 Hrs|
 |Banglore|   Airport|    3Hrs|
 Hyderabad| Ramoji Film City| 9 Hrs|
+
+***
+
+###Quotes
+
+> Give me blood and I will give you freedom! "Subhas Chandra Bose".
+
+> To live greatly, you have to risk greatly "Pawan Kalyan".
+
