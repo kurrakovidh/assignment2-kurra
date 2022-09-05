@@ -41,7 +41,7 @@ Hyderabad| Ramoji Film City| 9 Hrs|
 
 ***
 
-### code fencing
+### Code Fencing
 
 >Doesn’t take any JavaScript or anything. You just have the form’s target attribute match the iframe’s name attribute.The outer page doesn’t even reload. But it might appear to at first glance since many browsers run the page-loading spinner in the tab when an iframe reloads. 
 
