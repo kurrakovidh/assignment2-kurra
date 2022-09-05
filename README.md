@@ -35,8 +35,10 @@ Hyderabad| Ramoji Film City| 9 Hrs|
 
 ###Quotes
 
-> Give me blood and I will give you freedom! "Subhas Chandra Bose".
+> Give me blood and I will give you freedom! *Subhas Chandra Bose*.
 
-> To live greatly, you have to risk greatly "Pawan Kalyan".
+> To live greatly, you have to risk greatly *Pawan Kalyan*.
+
+***
 
 
