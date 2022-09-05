@@ -19,3 +19,14 @@ Naval Museum offers a delightful treat for not only history buffs, but a learnin
 
 ![AboutMe.md](AboutMe.md)
 
+***
+
+### enrouting to places
+The below table shows the Locations in a city and time we need to spend in a particular location.
+
+|City |  Location | Time To Spend |
+|    --- |       --- |          --- |
+|Vizag|  Navy Museum|  2 Hrs |
+Goa| Beach|6 Hrs|
+|Banglore|   Airport|    3Hrs|
+Hyderabad| Ramoji Film City| 9 Hrs|
